@@ -1,0 +1,30 @@
+Work Log
+Homework 11
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+07/26/03 11:30 13:00 000          030
+   Phase       - Development planning
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+07/28/03 12:00 13:00 000          060
+   Phase       - Development planning
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+07/29/03 12:30 13:30 000          060
+   Phase       - Development planning
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+07/30/03 16:00 18:30 000          150
+   Phase       - Coding, Testing, Tears of misery and woe ;), Finished
+   Notes       - Assistence was on working with the 'regex'
+   Assisted    - Dallin Wilcox, Gerrick Steed, Daniel Garcia
+   Assisted by - Clay Allen, Dallin Wilcox, Gerrick Steed, Daniel Garcia
+

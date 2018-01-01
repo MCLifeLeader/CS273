@@ -1,0 +1,7 @@
+-
+*Spanish Minor (138)*
+AND,
+Take ALL, SPAN 102, SPAN 321, SPAN 325, SPAN 339, SPAN 350, ;,
+Take 1, SPAN 201, SPAN 201M, ;,
+Take 1, SPAN 202, SPAN 302, ;,
+Take 1, SPAN 441, SPAN 451, ;, ;,

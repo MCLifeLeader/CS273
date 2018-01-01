@@ -1,0 +1,46 @@
+<!--
+   Homework 15
+   Brother Twitchell, CS 273
+   Brother Michael Carey
+-->
+<html>
+<head>
+	<title>Hello World!</title>
+</head>
+<body>
+<h1>Hello World!</h1>
+<form name="HelloWorld" method="post" action="javascript:void('');">
+<P>
+<INPUT id="helloWorldFiled" type="text" 
+name="helloWorldFiled" value="Hello World!" size="46">
+</P>
+<P>
+&nbsp;&nbsp; <INPUT id="RestButton" 
+type="reset" value="Hello World!" name="ResetForm">
+&nbsp;&nbsp; <INPUT id="Button1" type="button" value="My Name" 
+name="Button1" onclick="ChangeName('Mike Carey');">&nbsp;&nbsp;
+<INPUT id="Button2" type="button" value="My Major" name="Button2" 
+onclick="ChangeMajor('Computer Science');">&nbsp;&nbsp;
+<INPUT id="Button3" type="button" value="Where I am From" 
+name="Button3" 
+onclick="ChangeOrigin('Snohomish, Washington');">&nbsp;&nbsp;
+</P>
+<script language="javascript">
+<!--
+function ChangeName( strText )
+{
+window.document.HelloWorld.helloWorldFiled.value = strText;
+}
+function ChangeMajor( strText )
+{
+window.document.HelloWorld.helloWorldFiled.value = strText;
+}
+function ChangeOrigin( strText )
+{
+window.document.HelloWorld.helloWorldFiled.value = strText;
+}
+// -->
+		</script>
+	</form>
+</body>
+</html>

@@ -1,0 +1,6 @@
+-
+*Computer Science Minor (147)*
+AND,
+Take ALL, CS 165, CS 235, CS 346, ;,
+Take 1, CS 124, CS 144, ;,
+Take 4, COMPE 224, COMPE 324, CS 236, CS 273, CS 306, CS 345, CS 371, CS 410, CS 426, CS 427, CS 452, CS 460, ;, ;,

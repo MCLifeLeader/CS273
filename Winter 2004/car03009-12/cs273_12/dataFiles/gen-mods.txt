@@ -1,0 +1,61 @@
+# Major Modifications to generals requirements
+# where major dictated classes fulfill general education
+# ie  CS 273 fulfils Basic Skills
+#
+# Primary Key
+#  |      Modified General
+#  |          |        Data to replace old
+#  |          |                 |
+#  |          |                 |
+#  V          V                 V
+
+cs-440bs:*Basic Skills*Take ALL, :C-:, CS 273, ;,
+cs-440bs:*Reading and Writing*Take ALL, :C-:, OR, ENG 111, ENG 111C, ENG 111H, ;, OR, ENG 316, ENG 316C, ;, ;,
+cs-440bs:*Mathematics*Take ALL, :C-:, MATH 110, ;,
+cs-440bs:*Biological Science*Take 1, :C-:, BIO 176, BIO 200, ;,
+cs-440bs:*Physical Science*OR, Take ALL, :C-:, CHEM 105, ;, Take ALL, :C-:, PH 121, PH 150, ;, Take ALL, :C-:, GEOL 111, GEOL 111L, ;, ;,
+
+compe-450bs:*Physical Science*Take ALL, :C-:, CHEM 105, ;,
+compe-450bs:*Reading and Writing*Take ALL, :C-:, OR, ENG 111, ENG 111C, ENG 111H, ;, OR, ENG 316, ENG 316C, ;, ;,
+compe-450bs:*Mathematics*Take ALL, MATH 110, ;,
+
+eng-630-11ba:*Reading and Writing*AND, Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 314, ;, Take 1, :C:, ENG 370R, ENG 371R, ENG 372R, ENG 373, ;, ;,
+eng-630-12ba:*Reading and Writing*AND, Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 314, ;, Take 1, :C:, ENG 370R, ENG 371R, ENG 372R, ENG 373, ;, ;,
+eng-630-13ba:*Reading and Writing*AND, Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 314, ;, Take 1, :C:, ENG 370R, ENG 371R, ENG 372R, ENG 373, ;, ;,
+
+eng-635-24bs:*Reading and Writing*AND, Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 251, ENG 314, ;, Take 1, :C:, ENG 370R, ENG 371R, ENG 372R, ENG 373, ;, ;,
+eng-635-25bs:*Reading and Writing*AND, Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 251, ENG 314, ;, Take 1, :C:, ENG 370R, ENG 371R, ENG 372R, ENG 373, ;, ;,
+eng-635-26bs:*Reading and Writing*AND, Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 251, ENG 314, ;, Take 1, :C:, ENG 370R, ENG 371R, ENG 372R, ENG 373, ;, ;,
+
+eng-830ba:*Reading and Writing*Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 314, ;,
+eng-830ba:*Social Science*Take ALL, ED 270, ;,
+
+eng-836ba:*Reading and Writing*Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 314, ;,
+eng-836ba:*Social Science*Take ALL, ED 270, ;,
+
+eng-838bs:*Reading and Writing*Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 251, ENG 314, ;,
+eng-838bs:*Social Science*Take ALL, ED 270, ;,
+
+eng-835bs:*Reading and Writing*Take ALL, :C:, OR, ENG 111, ENG 111C, ENG 111H, ;, ENG 251, ENG 314, ;,
+eng-835bs:*Social Science*Take ALL, ED 270, ;,
+
+intdesn-420bs:*Arts*Take ALL, ID 380, FA 100, ;,
+intdesn-420bs:*Social Science*Take ALL, SOC 112, ;,
+intdesn-425ba:*Arts*Take ALL, ID 380, FA 100, ;,
+intdesn-425ba:*Social Science*Take ALL, SOC 112, ;,
+
+is-680bs:*Basic Skills*Take ALL, IS 140, ;,
+is-680bs:*Social Science*AND, Take ALL, ECON 111, ;, Take 1, ECON 112, PSYCH 111, PSYCH 201, SOC 111, SOC 112, ;, ;,
+is-680bs:*Mathematics*Take ALL, MATH 221, ;,
+is-680bs:*Reading and Writing*AND, OR, ENG 111, ENG 111C, ENG 111H, ;, Take 1, ENG 312, ENG 316, ENG 316C;, ;,
+
+math-650bs:*Reading and Writing*Take ALL, OR, ENG 111, ENG 111C, ENG 111H, ;, OR, ENG 316, ENG 316C, ;, ;,
+math-650bs:*Mathematics*Take ALL, MATH 112, ;,
+math-650bs:*Physical Science*Take ALL, PH 121, PH 150, ;,
+math-650bs:*Basic Skills*Take ALL, CS 124, CS 144, ;,
+
+math-850bs:*Reading and Writing*Take ALL, OR, ENG 111, ENG 111C, ENG 111H, ;, OR, ENG 316, ENG 316C, ;, ;,
+math-850bs:*Physical Science*Take ALL, PH 121, PH 150, ;,
+math-850bs:*Mathematics*Take 1, MATH 110, MATH 112, ;,
+math-850bs:*Letters*Take 1, ENG 251, ;,
+math-850bs:*Social Science*Take ALL, ED 270, ;,

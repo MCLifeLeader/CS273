@@ -1,0 +1,5 @@
+-
+*English Education Minor (134)*
+AND,
+Take ALL, :C:, ENG 251, ENG 314, ENG 325, ENG 430, ENG 450, ;,
+Take 2, :C:, ENG 331, ENG 332, ENG 333, ENG 334, ENG 335, ;, ;,

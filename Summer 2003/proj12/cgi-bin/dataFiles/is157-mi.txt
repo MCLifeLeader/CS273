@@ -1,0 +1,10 @@
+Minor in  Information Systems (157)    
+IS 200L
+IS 203
+IS 210
+IS 230
+IS 235
+IS 240
+IS 320
+IS 350
+IS 300L&&IS 310||IS 330||IS 340||IS 410

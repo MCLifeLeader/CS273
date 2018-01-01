@@ -1,0 +1,7 @@
+-
+*Mathematics Education Minor (120)*
+AND,
+OR,
+Take ALL, :C-:, MATH 111, MATH 440, ;,
+Take [4], :C-:, MATH 440, ;, ;,
+Take ALL, :C-:, MATH 112, MATH 113, MATH 301, MATH 302, MATH 490, ;, ;,

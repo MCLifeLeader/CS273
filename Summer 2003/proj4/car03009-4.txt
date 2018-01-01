@@ -1,0 +1,13 @@
+Work Log
+Homework 4
+Brother Twitchell, CS273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+mm/dd/yy hh:mm hh:mm mmm          mmm
+07/05/03 10:30 10:40 000          010
+
+   Phase       -
+   Notes       -
+   Assisted    -
+   Assisted by -

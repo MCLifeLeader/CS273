@@ -1,0 +1,7 @@
+-
+*Information Systems Minor (157)*
+AND,
+Take ALL, :C-:, IS 200L, IS 203, IS 210, IS 230, IS 235, IS 240, IS 320, IS 350, ;,
+OR,
+Take ALL, :C-:, IS 300L, IS 310, ;,
+Take 1, :C-:, IS 330, IS 340, IS 410, ;, ;, ;,

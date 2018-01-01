@@ -1,0 +1,51 @@
+Test, Mike
+   CS    124  005       INTRO COMP SYS  3.0  A         
+   MATH  110  001       COLL ALGEBRA    3.0  C   M     
+   MATH  111  001       TRIGONOMETRY    2.0  B   M     
+   MATH  112  001       CALCULUS I      4.0  A   M     
+   ENG   111  009       COLL WRITING    3.0  B+  E     
+   ENG   111H 009       COLL WRITING    3.0  B+  E     
+   GS    290B 001       APT LEADERSHIP  1.0  A         
+   PE*C  128  006       BEG BOWLING     1.0  A         
+   PE*C  177  003       FIT FOR LIFE    1.0  P   Z     
+   REL   324  004       D & C           3.0  A   R     
+   CS    203  001       ETHICS I        0.5  P         
+   MATH  221  002       STATISTICS      3.0  W   Rpt   
+   CS    165  001       OO PROGRAMMING  3.0  A-        
+   CS    303  301       ETHICS II       0.5  P         
+   CS    273  001       WEB ENGINEER    3.0  C-        
+   MATH  113  001       CALCULUS II     4.0  B+  M     
+   PE*C  178  010       WEIGHT TRAIN    1.0  C         
+   POLSC 170  002       INTL POLITICS   3.0  B-  S     
+   PSYCH 111  005       GEN PSYCHOLOGY  3.0  B+  S     
+   REL   301  009       PEARL GT PRICE  3.0  A-  R     
+   BIO   176  002       HEREDITY        4.0  C+  B     
+   CS    235  001       DATA STRUCTURE  3.0  A         
+   CS    236  001       DIS MATH        3.0  D   Rpt   
+   CS    236  001       DIS MATH        3.0  D   Rpt   
+   CS    290  001       SPECIAL TOPICS  3.0  A         
+   FA    100  001       PER VIS ART LB  0.0  F   Rpt   
+   ENG   250  011       INTRO TO LIT    3.0  A   L     
+   HUM   101  001       INTRO TO HUM    3.0  A-  A     
+   REL   121  012       BOOK OF MORMON  2.0  A   R     
+   COMPE 224  001       FUND DIG SYS    3.0  A         
+   CS    306  001       ALG COMP        3.0  A         
+   ENG   316C 001       ADVWRTG/TECHCM  3.0  B+  E     
+   REL   122  002       BOOK OF MORMON  2.0  A   R     
+   MATH  221  002       STATISTICS      3.0  C   M     
+   REL   234  001       ETERNAL MARR    2.0  D-  R     
+   CS    346  001       S/W DESIGN/DEV  3.0  D+        
+   CS    236  001       DIS MATH        3.0  B-        
+   PH    121  020       PRIN PHYSICS    3.0  C-  P     
+   PH    150  020       PRIN PHYSICS    3.0  C-  P     
+   CHEM  105  020       PRIN PHYSICS    3.0  C-  P     
+   PE*C  128  010       BEG BOWLING     1.0  A         
+   PH    123  001       PRIN PHYS II    3.0  A         
+   FA    100  001       PER VIS ART LB  0.0  F   Rpt   
+   REL   351  001       WORLD RELIGION  2.0  C   R     
+   CS    426  001       S/W ENGR I      3.0  C-        
+   CS    452  001       DATABASE SYS    3.0  B-        
+   CS    410  001       COMPILERS       3.0  A-        
+   COMPE 324  002       COMP ARCH       3.0  B+        
+   PH    220  001       PRIN PHYS III   3.0  B-        
+   FA    100  001       PER VIS ART LB  0.0  P         

@@ -1,0 +1,13 @@
+Work Log
+Homework 7
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+07/15/03 15:45 16:10 000          25
+
+   Phase       - Written and tested
+   Notes       -
+   Assisted    -
+   Assisted by - Clay: Forgot to add space after mime type
+

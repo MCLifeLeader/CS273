@@ -1,0 +1,118 @@
+Homework 03
+Brother Twitchell, CS273
+Brother Michael Carey
+
+
+1. Why will we run out of IP addresses? 
+
+   Problem of Ipv4
+   As the specifications of IPv4 have become old, the problems are mainly the following 
+three points.
+
+   1. Shortage of Internet Protocol address 
+   Because IPv4 is 32 bits, it has about 4,300,000,000 address space in a decimal number. 
+This amount is absolutely insufficient for the Internet world wide because it is smaller 
+than the population of the world. According to calculations by IETF in 1994, that will 
+exhaust the addresses in about year 2008 +/- 3. However, the greater effect or loss of
+Internet addresses is not entirly due to the fact the there are only 4.3 billion 
+different IP addresses available. It is due more in part on the poor method 
+used to distribute IP addresses. Stating in fact to Class A, B, C, and D type networks.
+CIDR is an attempt to help reclame some of this network addressing space.
+
+   2. Rapid increase of routing information 
+   When the number of organizations connected to the Internet increases, the memory and 
+route information increases too. It puts the burden on the router which forwards the 
+packet, resulting as increased memory and decrease at the look-up speed. This could be 
+a fatal problem for a router with little capacity.
+
+   3. Destruction of End-to-end communication
+   The end-to-end communication is destroyed by Network Address Translator (NAT) which 
+was introduced to ease the shortage of addresses. Therefore, new application 
+developments became less feasible. 
+
+
+2. What has been done to solve this problem?
+   Do to the shortage of IP’s companies and educational institutions have gotten together 
+to develop some potential solutions for this growing problem. The two main developments 
+of NAT and CIDR have assisted in extending the life of the current IP addressing scheme. 
+IPv6 is the next generation IP protocol which will allow every computer or electronic 
+device to have its own IP address.
+
+
+3. Include a discussion of IPv6, CIDR, and NAT.
+
+   The creation of Network Address Translation or NAT was to help deal with the growing 
+number of networks being connected on the internet. However NAT has one major flaw which 
+is that the communication layers were originally designed for asynchronous communication 
+where as with NAT all communication must by synchronous or unidirectional.
+
+   In assisting with correcting the problem of the finite address space found on the 
+Internet IPv6 has been developed and is in the process of replacing IPv4. However IPv6 
+has gained in popularity but its adoption has still been slow. In terms of address space, 
+IPv4 is about 4.3 x 10^9, being 32 bits. On the other hand, Ipv6 becomes the astronomical 
+figure of 3.4 x 10^38 because its length is 128 bits.
+
+   Classless Inter-Domain Routing or CIDR is another method that was developed to help 
+alleviate the diminishing IPv4 addresses. However it’s main focus is in the dividing 
+of the current resources into more appropriate sub blocks or classes. In this way it 
+would function more like the current telephone network system. Each address space would 
+only need to recognize its highest level address and pass it on to the next highest. 
+This also reduces the major load of internet addresses stored in most routing tables. 
+Which is around 35000 entries. CIDR has helped greatly as it enabled the internet the 
+ability to keep growing past 1994. This is because the theoretical limit to routing 
+tables is about 60000 entries. CIDR is still limited in that it does not resolve the 
+diminishing number of IPv4 addresses and only helps manage what we already have 
+available to us.
+
+4. What are the advantages of each of these solutions? 
+   NAT has allowed the growth of the internet to continue by providing a way to handle 
+computers from with in a network to communicate out side the network by using the same 
+IP. This is a temporary solution to the growing IP shortage problems on the net.
+
+   IPv6 will allow the number of individual IP addresses to be increased in order of 
+magnitude. This will allow an address space that will not be impeded by population 
+growth for a very long time. It will also allow every computer, appliance, car, cell 
+phone on the planet to have its own unique IP address. 
+
+   IPv6 utilizes CIDR routing technology and CIDR notation in the same way as IPv4. IPv6 
+is designed for fully classless addressing.
+
+   CIDR is a method developed to help balance the network load across the entire Internet. 
+This allows routers to only handle the routing information that directly affects their 
+subnet. This is similar to how the phone company handles call routing. The high level 
+network only handles the country code, then it breaks off to the area code, and then to 
+the city code and then to the actual unique phone number id. Each part is broken off at 
+its appropriate level. The high level trunk does not need to even know what the unique 
+phone number is and so it does not have to deal with that data execpt to pass on the
+data to the next more localized router to the destination.
+
+
+5. What are the disadvantages of each of these solutions? 
+   NAT and CIDR are both temporary solutions for the growing IP shortage, except in the 
+case of CIDR for IPv6.
+The main disadvantage for IPv6 is that it will simply take time for the new IP methodology
+to be fully implemented across all platforms and applications that will eventually require
+the IPv6 technology.
+
+6. Do you think any of these solutions will be implemented within the next five years? 
+Why or why not?
+
+NAT and CIDR are all ready in place and assisting in PC to PC communications over networks.
+IPv6 on the other hand is currently being used in some companies and on the Internet 
+backbone. It is being tested and has been shown to be quite reliable. IPv6 is already 
+here however and its popularity has not grown extremely fast. Also every application 
+that supports IPv4 must be upgraded to handle the new protocol. Many large companies 
+have written support for this new protocol, however it is simply a matter of time 
+before IPv6 is widely used. I believe that IPv6 will be used more as the eminent IP 
+shortage is not going away. IPv6 is already available on the latest versions of Windows 
+and Windows servers as well as many other platforms, so in the next 5 years we will 
+certainly see the growth of IPv6.
+
+Questions 1, 2, 3
+   Source: http://www.wide.ad.jp/wg/finish/014_ipv6.html
+
+Questions 2, 3
+   Source: http://public.pacbell.net/dedicated/cidr.html
+
+Questions 4
+   Source: http://compnetworking.about.com/library/weekly/aa021003a.htm

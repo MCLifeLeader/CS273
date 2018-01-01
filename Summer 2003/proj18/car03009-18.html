@@ -1,0 +1,106 @@
+<!--
+   Homework 18
+   Brother Twitchell, CS 273
+   Mike Carey
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+   <head>
+      <title>Letter Grade!</title>
+         <script language="javascript">
+<!--
+   function DisplayGrade( form )
+   {
+      var testVar = parseInt( form.gradeField.value );
+
+      if( ( isNaN( testVar ) ) || ( testVar > 100 ) || ( testVar < 0 ) )
+      {
+        alert( 'An invalid number was entered.' );
+        document.gradeToolAnswers.viewGradeField.value = "";
+        form.gradeField.value = "";
+      }
+      else
+      {
+         if( testVar >= 90 )
+         {
+            form.viewGradeField.value = "A";
+         }
+         else if( testVar >= 80 )
+         {
+            if( testVar > 86 )
+            {
+               form.viewGradeField.value = "B+";
+            }
+            else if( testVar > 82 )
+            {
+               form.viewGradeField.value = "B";
+            }
+            else
+            {
+               form.viewGradeField.value = "B-";
+            }
+         }
+         else if( testVar >= 70 )
+         {
+            if( testVar > 76 )
+            {
+               form.viewGradeField.value = "C+";
+            }
+            else if( testVar > 72 )
+            {
+               form.viewGradeField.value = "C";
+            }
+            else
+            {
+               form.viewGradeField.value = "C-";
+            }
+         }
+         else if( testVar >= 60 )
+         {
+            if( testVar > 66 )
+            {
+               form.viewGradeField.value = "D+";
+            }
+            else if( testVar > 62 )
+            {
+               form.viewGradeField.value = "D";
+            }
+            else
+            {
+               form.viewGradeField.value = "D-";
+            }
+         }
+         else
+         {
+            form.viewGradeField.value = "F";
+         }
+      }
+   }
+
+// -->
+         </script>
+   </head>
+   <body>
+      <h1>Letter Grade!</h1>
+        <form name="gradeTool" method="post" action="javascript:void('');">
+      <table>
+      <tr>
+       <td vAlign="top;">
+         <P>
+            <INPUT id="gradeField" type="text" name="gradeField" value="" size="10">
+         </P>
+        </td>
+        <td  vAlign="top;">
+        <form name="viewGradeTool" method="post" action="javascript:void('');">
+         <P>
+            <INPUT id="viewGradeField" type="text" name="viewGradeField" value="" size="10">
+         </P>
+        </td>
+      </tr>
+      </table>
+            <INPUT id="Button1" type="button" value="Process Grade" name="Button1" onclick="DisplayGrade(this.form);">
+      </form>
+      <br>
+      <a href="javascript:">JavaScript console</a>
+   </body>
+</html>

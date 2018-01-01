@@ -1,0 +1,13 @@
+Galatia, Mark
+   CS    124  001       INTRO COMP SYS  3.0  C-  Rpt   
+   SIGN  101  001       AM SIGN LANG I  3.0  A         
+   REL   261  001       INTRO FAM HIST  2.0  F   R     
+   CS    124  001       INTRO COMP SYS  3.0  D-  Rpt   
+   COMM  120  002       INTERPERSONAL   3.0  B+  Z     
+   REL   221  002       MISS BK MORMON  4.0  A   R     
+   CS    124  001       INTRO COMP SYS  3.0  F         
+   PH    121  001       PRIN PHYSICS    3.0  W   P     
+   PH    150  001       BEG PHS LAB     3.0  W   P     
+   CHEM  105  009       GENERAL CHEM    4.0  A-  P     
+   CS    165  002       OO PROGRAMMING  3.0  A         
+   AMHER 170  005       AMER HER & CIV  3.0  W   I     

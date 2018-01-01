@@ -1,0 +1,8 @@
+-
+*Interior Design B.A. (425)*
+!include "gen-ba.txt"!
+!NoMinor!
+AND,
+Take ALL, :B:, ID 101, ID 101S, ID 102, ID 102S, ID 105, ID 136, ID 137, ID 203, ID 238, ID 239, ID 240, ID 240S, ID 250, ID 250S, ID 276, ID 341, ID 341S, ID 355, ID 355S, ID 381, ID 382, ID 385, ID 395, ID 398, ID 460, ID 465, ID 499, ;,
+Take ALL, ARCH 100, ARCH 102, ARCH 110, ARCH 160, HFED 360, ;,
+Take ALL, :B:, ID 100, ;, ;,

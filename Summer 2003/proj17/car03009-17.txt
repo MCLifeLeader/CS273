@@ -1,0 +1,28 @@
+Work Log
+Homework 17
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+07/05/03 11:20 11:40 000          020
+
+   Phase       - Written and Tested
+   Notes       - Bob gave me a single example of how to intergrate JScript and buttons.
+   Assisted    -
+   Assisted by - My Brother Bob.
+
+07/16/03 18:00 18:10 000          010
+
+   Phase       - Corrected and finished 
+   Notes       - Correction included changing from textarea to a textfield
+   Assisted    -
+   Assisted by -
+
+08/17/03 18:15 18:30 000          030
+
+   Phase       - Fixed bug that prevented text from displaying under Mozilla
+   Notes       - 
+   Assisted    -
+   Assisted by -
+
+ 

@@ -1,0 +1,27 @@
+Work Log
+Homework 1
+Brother Twitchell,
+CS273
+Brother Michael Carey
+
+I did not grab my work log with my acurate hours
+Listed below is the amount of time I remember spending on it.
+I will turn in the correct file in the morning.
+Date     Start Stop  Interruption Work
+07/04/03                          060
+07/05/03                          030
+07/07/03 17:00 17:30              030
+
+How is Data encryption an intergal part of E-Commerce?
+->A.Protects Customers and Merchants data as it is sent to the bank for verification.
+B.Allows the bank to provide better service to it's customers
+C.Helps the customer feel protected.
+
+What is the most common encryption method used on web page certificates?
+A. Synchronous key encryption
+B. Asyncronis key encryption
+C. 128 bit Certificate
+->D. B and C
+E. A and C
+
+

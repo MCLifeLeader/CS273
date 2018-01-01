@@ -1,0 +1,76 @@
+Silvanus, Simon
+   DT    155  003       RES DRAFTING    3.0  A         
+   ID    090  001       ASID CHAPT      0.5  B         
+   ID    101  001       DESIGN BASIC    3.0  C         
+   ID    236  001       PRESENTATION I  3.0  A-        
+   ID    240  001       SPACE PLAN I    4.0  B-        
+   REL   211  016       NEW TESTAMENT   3.0  C+  R     
+   CLOTH 260  001       TEXTILES        3.0  A-        
+   ID    090  001       ASID CHAPT      0.5  B         
+   ID    102  001       COLOR           3.0  C         
+   ID    237  001       PRESENT II      3.0  A-        
+   ID    241  001       SPACE PLAN II   4.0  B+        
+   REL   431  017       NEW TESTAMENT   2.0  C   R     
+   ENG   111  602       COMPOSITION     3.0  A   E     
+   ID    270  501       READINGS        3.0  B-        
+   BS    120  002       BIO CULT PLTS   3.0  C+  B     
+   DT    158  201       ARCHITEC STRUC  2.0  A-        
+   ID    090  001       ASID CHAPT      0.5  B         
+   ID    238  001       PRESENT III     3.0  C-        
+   ID    250  001       SPACE PLAN III  3.0  A-        
+   ID    280  001       FURN/TEX/ARCHI  4.0  B-        
+   PH    157  001       ID ACOUSTICS    1.0  C         
+   REL   324  014       D & C           3.0  A   R     
+   DANCE 180W 002       SOCIAL DANCE    1.0  W         
+   DT    234  002       MICRO-CAD ACAD  2.0  C+        
+   ID    090  001       ASID CHAPT      0.5  A         
+   ID    103  001       THREE-D DESIGN  4.0  B+        
+   ID    255A 001       RETAIL/DISPLAY  1.5  C         
+   ID    255B 001       HOS/RES/BARR    1.5  A         
+   ID    276  001       MATERIAL/SOURC  3.0  B         
+   ID    281  001       CONTEMP FURN    3.0  C         
+   REL   301  013       D & C           3.0  A-  R     
+   FAML  210  601       CHILD DEVELOP   3.0  B-  S     
+   MATH  100A 601       MATH REQ        1.0  C   M     
+   DT    240  701       ARCH DETAIL     3.0  A-        
+   HORT  135  701       FLOWER ARRANG   3.0  B-        
+   HORT  130  002       INT ARC LAND D  3.0  C   A     
+   ID    090  001       ASID CHAPT      0.5  A         
+   ID    260A 001       OFF SYS/PLAN    1.5  B         
+   ID    260B 001       HLTHCR/ELDERLY  1.5  C         
+   ID    282  001       FURNITURE DES   2.0  A-        
+   ID    288  001       FIELD TRIPS     2.0  B         
+   ID    295  001       LIGHTING        3.0  C         
+   ART   100  190       INTRO VIS ARTS  3.0  A-  A     
+   CLOTH 235  001       CHILD CLOTH     2.0  W         
+   ID    090  001       ASID CHAPT      0.5  B         
+   ID    265  001       PORTFOLIO       2.0  C+        
+   ID    269  001       COLOR SLIDE     2.0  A-        
+   ID    285  001       BUSINESS PRIN   3.0  B         
+   ID    299  001       COMP EXAM       3.0  C         
+   BS    176  004       HEREDITY        3.0  D+  B     
+   ENG   114  008       COMP/ANA READ   3.0  F   E     
+   HS    130  002       PRIN OF HEALTH  2.0  A   Z     
+   ID    104  001       SURF ORNAMENT   3.0  B         
+   PE*C  177  005       FIT FOR LIFE    1.0  C-  Z     
+   HORT  124  701       FLOWER IDNTFY   1.0  D         
+   HORT  235  701       ADV FLORAL DES  3.0  F         
+   CLOTH 230  001       CREATIVE STITC  2.0  A-        
+   MUSIC 104  003       GRP VOCAL INST  1.0  B-        
+   CLOTH 231  001       CREA STITCH II  2.0  C         
+   CLOTH 235  701       CHILD CLOTH     2.0  D         
+   ARCH  110  003       ARCH CAD        3.0  A         
+   MATH  100B 001       BEG ALGEBRA I   1.0  F   Rpt   
+   REL   121  026       BOOK OF MORMON  2.0  B   R     
+   AMHER 170  007       AMER HER & CIV  3.0  C-  I     
+   MATH  100B 001       BEG ALGEBRA I   1.0  D         
+   REL   264  002       LDS FAMILY HIS  2.0  A   R     
+   COMM  102  601       PUBLIC SPEAK    3.0  B   Z     
+   MATH  101  009       INTER ALGEBRA   3.0  C         
+   FA    100  001       PER VIS ART LB  0.0  P   A     
+   MATH  108  003       QUANT REASON    3.0  D-  M     
+   PE*C  178  002       WEIGHT TRAIN    1.0  A         
+   REL   122  014       BOOK OF MORMON  2.0  B+  R     
+   ENG   250  008       INTRO TO LIT    3.0  C   L     
+   GEOL  101  004       INTRO TO GEOL   3.0  D   P     
+   GEOL  102  815       INTRO/GEOL LAB  1.0  D   P     

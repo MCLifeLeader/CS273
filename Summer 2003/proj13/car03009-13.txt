@@ -1,0 +1,174 @@
+Work Log
+Homework 13
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+08/13/03 07:00 08:00 000          060
+
+   Phase       - Gathering information
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+08/13/03 12:00 13:00 000          060
+
+   Phase       - Gathering information
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+08/13/03 16:00 16:30 000          030
+
+   Phase       - Gathering information
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+Good web pages
+
+Good thing: Scolling
+Reason it is a good thing: I do not have to scroll
+URL(s): http://www.byui.edu/Housing/
+Rating: ***
+
+Good thing: Scanability
+Reason it is a good thing: Easy to read and figure out scholarship rates for
+   GPA.
+URL(s): http://www.byui.edu/admissions/Scholarships/VariableStep.html
+Rating: ***
+
+Good thing: Lists
+Reason it is a good thing: Bulleted list with easy to read graphic for bullets
+URL(s): http://www.byui.edu/admissions/ThreeTrack/3Track.html
+Rating: ***
+
+Good thing: Titles
+Reason it is a good thing: Department Title is easy to find and read
+URL(s): http://www.byui.edu/admissions/ThreeTrack/3Track.html
+Rating: ***
+
+Good thing: Relevance, download time
+Reason it is a good thing: Relevance-enhanced Images, quick easy download of
+   graphic
+URL(s): http://www.byui.edu/admissions/ThreeTrack/3Track.html
+Rating: ****
+
+Good thing: Contact informatoin
+Reason it is a good thing: Contact information is easy to find.
+URL(s): http://www.byui.edu/orientation/
+Rating: ****
+
+Good thing: Audiance
+Reason it is a good thing: Target audiance that have high or low bandwidth
+   requirements.
+URL(s): http://www.byui.edu/activities/
+Rating: ****
+
+Good thing: Navigation Global
+Reason it is a good thing: Ability to find information site wide
+URL(s): http://www.byui.edu/orientation/
+Rating: *
+
+Good thing: Navigation Local
+Reason it is a good thing: Ability to find information local to a smaller
+   group of pages
+URL(s): http://www.byui.edu/orientation/
+Rating: **
+
+Good thing: Correct use of links
+Reason it is a good thing: Easy to read, all links properly highlighted
+   and colored, Visited color is purple!
+URL(s): http://www.byui.edu/governmentresources.htm
+Rating: ****
+
+Bad web pages
+
+Problem: Scanable text
+Reason it is a problem: Difficult to find information
+Recommended Improvement: Make the text more scanable by highlighting
+   key words
+URL(s): http://www.byui.edu/Housing/
+Rating: *
+
+Problem: Broken link
+Reason it is a problem: Users cannot get the desired information
+Recommended Improvement: Remove link or put the web page back in.
+URL(s): http://www.byui.edu/maps/campusmap.htm
+Found from: http://www.byui.edu/Housing/oncampus/faqs.htm
+Rating: *****
+
+Problem: Scrolling
+Reason it is a problem: Forcing user to scroll a long distance to get
+   information
+Recommended Improvement: Create seperate web pages for each item in FAQ
+URL(s): http://www.byui.edu/Housing/oncampus/faqs.htm
+Rating: **
+
+Problem: Breaks fundamental user model
+Reason it is a problem: When clicking on "Meal Plan Options" a new Explorer
+   browser window pops up.
+Recommended Improvement: When clicking on the link, just go there. If the
+   user wants to come back they can use the back button.
+URL(s): http://www.byui.edu/housing/oncampus/faqs.htm
+Rating: ***
+
+Problem: The pages are not consistant with title banner
+Reason it is a problem: The user feels lost when going from one page to the
+   next. The web pages look similar but feel as if they are not all part of
+   the same site.
+Recommended Improvement:Correct the pages so that they are all consistant
+   with the site.
+URL(s): http://www.byui.edu/manwaring/food_services.asp
+      : http://www.byui.edu/manwaring/galley.htm
+      : http://www.byui.edu/manwaring/nordic.htm
+      : http://www.byui.edu/manwaring/Jolynn's.htm
+      : http://www.byui.edu/manwaring/Tomassito's.htm
+      : http://www.byui.edu/manwaring/catering/catering.htm
+Rating: **
+
+Problem: Non-Terminating animated gif
+Reason it is a problem: Distracting to users
+Recommended Improvement: Remove it, or animate once and terminate
+URL(s): http://www.byui.edu/manwaring/Jolynn's.htm
+Rating: ***
+
+Problem: Marque using java script
+Reason it is a problem: Difficult for use to click on the text that is
+   being displayed.
+Recommended Improvement: Create each item in the Marque as a sepreate
+   link on the page.
+URL(s): http://www.byui.edu/orientation/
+Rating: **
+
+Problem: Web page requires Shockwave plug in.
+Reason it is a problem: Using latetest technology.
+Recommended Improvement: Remove the shockwave implants
+URL(s):  http://www.byui.edu/orientation/campus/futureorientations.htm
+Rating: **
+
+Problem: Links
+Reason it is a problem: The links are not underlined and are not blue.
+Recommended Improvement: Underline the links and make them blue.
+URL(s): http://www.byui.edu/orientation/campus/futureorientations.htm
+Rating: ***
+
+Problem: Frames
+Reason it is a problem: Breaks fundamental user model of the web
+Recommended Improvement: Don't use frames!
+URL(s): http://www.byui.edu/onlinelearning/
+Rating: *****
+
+Extra:
+Problem: FrontPage
+Reason it is a problem: FrontPage ( need more? )
+Recommended Improvement: Hire a real web developer
+URL(s): http://www.byui.edu/manwaring/catering/catering.htm
+Rating: *****
+
+Problem: Links
+Reason it is a problem: The links do not change color to purple after
+   being selected.
+Recommended Improvement: Change the link colors after being clicked on.
+URL(s): http://www.byui.edu/orientation/campus/futureorientations.htm
+Rating: ***

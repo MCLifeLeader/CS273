@@ -1,0 +1,17 @@
+# Major Minor Conflicts Table
+# You only need to put majors that require minors in this file
+# to prevent major and minor conflicts.
+is-680bs:is-157m
+cs-440bs:cs-147m
+eng-630-11ba:eng-133m:eng-134m
+eng-630-12ba:eng-133m:eng-134m
+eng-630-13ba:eng-133m:eng-134m
+eng-635-24bs:eng-133m:eng-134m
+eng-635-25bs:eng-133m:eng-134m
+eng-635-26bs:eng-133m:eng-134m
+eng-830ba:eng-133m:eng-134m
+eng-835bs:eng-133m:eng-134m
+eng-836ba:eng-133m:eng-134m
+eng-838bs:eng-133m:eng-134m
+math-650bs:math-119m:math-120m
+math-850bs:math-119m:math-120m

@@ -1,0 +1,185 @@
+Work Log
+Homework 12
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+07/19/03 09:00 11:00 000          120
+
+   Phase       - Created flat data file V1.0
+   Notes       - 
+   Assisted    - 
+   Assisted by - 
+
+07/19/03 11:30 12:00 000          030
+
+   Phase       - Research
+   Notes       - 
+   Assisted    - 
+   Assisted by - Bob
+
+07/24/03 10:30 14:00 000          210
+
+   Phase       - design and research flat data file V2.0 and Building 
+                 Database
+   Notes       - Created Excell spreedsheet for main class list for
+                 Importing into a SQL server database which will be used to
+                 correct relational links.
+   Assisted    - 
+   Assisted by - 
+
+07/24/03 17:00 18:30 000          090
+
+   Phase       - Data Entry
+   Notes       - Created Excell spreedsheet of Prereq's
+   Assisted    - 
+   Assisted by - 
+
+07/24/03 20:30 21:30 000          060
+
+   Phase       - Data Entry
+   Notes       - Created Excell spreedsheet of Prereq's
+   Assisted    - 
+   Assisted by - 
+
+07/25/03 09:00 10:00 000          060
+
+   Phase       - Data Entry
+   Notes       - Created Excell spreedsheet of Prereq's
+   Assisted    - 
+   Assisted by - 
+
+07/26/03 19:00 22:00 000          120
+
+   Phase       - Stopped preivous path I was following, not correct path. 
+                 Figured out design for files, creating files.
+   Notes       - 
+   Assisted    - 
+   Assisted by - 
+
+07/31/03 17:00 19:00 000          120
+
+   Phase       - Making data file corrections Writting code.
+   Notes       - 
+   Assisted    - 
+   Assisted by - 
+
+07/31/03 19:30 20:00 000          030
+
+   Phase       - Coding
+   Notes       - 
+   Assisted    - 
+   Assisted by - 
+
+08/02/03 14:00 17:30 000          210
+
+   Phase       - Coding
+   Notes       - 
+   Assisted    - 
+   Assisted by - 
+
+08/03/03 15:00 15:45 000          045
+
+   Phase       - Coding
+   Notes       - 
+   Assisted    - 
+   Assisted by - 
+
+08/04/03 12:00 12:30 000          030
+
+   Phase       - Testing on joshua.byui.edu
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+08/05/03 11:00 12:45 000          075
+
+   Phase       - Coding
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+08/05/03 12:00 12:50 000          050
+
+   Phase       - Working with data files
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+08/07/03 12:00 13:00 000          060
+
+   Phase       - Trying to figure it all out
+   Notes       - Be more abstract or high level first (top down)
+                 Alternative design analysis
+   Assisted    - 
+   Assisted by - Brother Twitchell
+
+08/09/03 14:00 17:00 000          180
+
+   Phase       - Coding
+   Notes       - 
+   Assisted    - 
+   Assisted by -
+
+08/11/03 11:30 13:00 000          090
+
+   Phase      - Coding
+   Notes      -
+   Assisted   -
+   Assited by -
+
+08/11/03 18:30 19:00 000          030
+
+   Phase      - Coding
+   Notes      - Problems with variable passing in function
+   Assisted   -
+   Assited by -
+
+08/12/03 11:30 13:30 000          120
+
+   Phase      - Coding, Debugging code problem
+   Notes      -
+   Assisted   -
+   Assited by -
+
+08/13/03 18:45 21:15 000          150
+
+   Phase      - Coding
+   Notes      -
+   Assisted   -
+   Assited by -
+
+08/14/03 10:30 13:00 030          120
+
+   Phase      - Coding
+   Notes      - Problems with hashs. Problem found in duplicate function call.
+   Assisted   -
+   Assited by - Lab assistant, Bro. Twitchell
+
+08/14/03 14:00 16:00 000          120
+
+   Phase      - Coding
+   Notes      -
+   Assisted   -
+   Assited by -
+
+08/14/03 18:00 18:30 000          030
+
+   Phase      - Working with data files
+   Notes      -
+   Assisted   -
+   Assited by -
+
+08/16/03 00:00 01:45 000          105
+
+   Phase      - Coding, Working with data files
+   Notes      -
+   Assisted   -
+   Assited by -
+
+08/16/03 12:00 14:00 000          120
+
+   Phase      - Coding
+   Notes      -
+   Assisted   -
+   Assited by -

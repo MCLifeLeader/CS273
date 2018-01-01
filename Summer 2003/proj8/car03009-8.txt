@@ -1,0 +1,30 @@
+Work Log
+Homework 8
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+07/17/03 11:30 13:00 000          90
+
+   Phase       - Planing and testing and learning
+   Notes       - I do not yet know enough to reduce my
+                 line count below 55.
+   Assisted    -
+   Assisted by -
+
+07/18/03 11:30 11:50 000          20
+
+   Phase       - rewritting testing learning
+   Notes       - I was using two statments. was shown an example
+                 of how to use arrays better from perl book.
+   Assisted    -
+   Assisted by - Brother Twitchell
+
+07/18/03 11:50 12:00 000          10
+
+   Phase       - Added comments to code, Finished
+   Notes       - Reverse enginered the logic and put that in as
+                 the comments
+   Assisted    -
+   Assisted by -
+

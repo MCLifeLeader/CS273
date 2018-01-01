@@ -1,0 +1,19 @@
+-
+*English Professional Writing B.A. (630-12)*
+!include "eng-630.txt"!
+!MinorRequired!
+AND,
+Take ALL, :C:, ENG 251, ENG 325, ENG 450, ENG 452, ENG 495, ;,
+Take 3, :C:, ENG 331, ENG 332, ENG 333, ENG 334, ENG 335, ;,
+Take 1, :C:, ENG 350R, ENG 351, ENG 352, ENG 353, ENG 354, ENG 355, ENG 356, ENG 361, ENG 362, ENG 363R, ;,
+OR,
+Take 2, COMM 130, COMM 310, ;,
+Take 2, IS 230, IS 235, ;,
+Take 2, COMM 111, COMM 342, ;,
+Take 2, COMM 111, COMM 240, ;,
+Take 2, COMM 130, COMM 347, ;,
+Take 2, COMM 230, COMM 330, ;,
+Take 2, B 247, COMM 330, ;,
+Take 2, COMM 111, COMM 235, ;, ;,
+Take 2, :C:, B 247, COMM 111, COMM 130, COMM 230, COMM 235, COMM 240, COMM 310, COMM 330, COMM 342, COMM 347, IS 230, IS 235, ;,
+Take 1, :C:, ENG 312, 316, ;, ;,

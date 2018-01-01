@@ -1,0 +1,7 @@
+-
+*Information Systems B.S. (680)*
+!include "gen-bs.txt"!
+!MinorRequired!
+AND,
+Take ALL, :C-:, IS 200L, IS 203, IS 210, IS 230, IS 235, IS 240, IS 258, IS 300L, IS 310, IS 320, IS 330, IS 340, IS 370, IS 400L, IS 410, IS 450, IS 460, ;,
+Take 1, :C-:, IS 490, IS 498, ;, ;,

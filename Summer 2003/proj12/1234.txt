@@ -1,0 +1,21 @@
+invalid
+                   BS    150  001       GEN ZOOLOGY     3.0  F   B     
+                   BS    150L 001       GEN ZOO LAB     1.0  B   B     
+                   EET   151  002       DIGITAL CIR     3.0  D-        
+                   EET   152  002       D.C. CIRCUITS   3.0  B         
+                   ENG   111  003       COLLEGE COMP    3.0  F   Rpt   
+                   MATH  110  020       COLL ALGEBRA    3.0  D-  Rpt   
+                   PE*C  173  201       GYMNASTICS      1.0  A         
+                   PE*C  174  301       GYMNASTICS INT  1.0  A         
+                   REL   261  007       INTRO FAM HIST  2.0  C   Rpt
+                   CS    144  002       INTRO TO PROGR  3.0  F         
+                   DT    204  001       ELECT DRAWING   2.0  W         
+                   HIST  111  003       WORLD CIVIL     3.0  F   S     
+                   MATH  110  020       COLL ALGEBRA    3.0  C   M     
+                   PE*C  178  201       WEIGHT TRAIN    1.0  A         
+                   PE*C  299  003       PROF SEMINAR    1.0  B-        
+                   REL   130  007       MISSION PREP    2.0  F   R     
+                   AMHER 100  301       AMER HERITAGE   3.0  A   S     
+                   ENG   111  303       COLL WRITING    3.0  A   E     
+                   GS    102  302       STUDY SKILLS    1.0  A         
+                   REL   261  302       INTRO FAM HIST  2.0  B+  R     

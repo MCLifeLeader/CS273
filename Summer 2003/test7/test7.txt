@@ -1,0 +1,277 @@
+Work Log
+Homework test7
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+08/17/03 19:00 19:30 000          030
+
+   Phase       - Planning
+   Notes       - Your response shall not exceed 162 lines of single-spaced
+                 text with 78 columns per line. Based on principles learned
+                 in CS 273, we are rewriting the BYU-I web site.
+   Assisted    -
+   Assisted by -
+
+08/18/03 16:00 16:30 000          000
+
+   Phase       - More Planning
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+08/18/03 19:00 20:00 000          060
+
+   Phase       - More Planning.
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+08/18/03 12:00 13:30 000          090
+
+   Phase       - More Planning and Some Writing of the Document.
+   Notes       - The header is 36 lines long, The total document is 273 lines
+                 which is (278 - 41) - 162 = 75 lines over. I wrote this
+                 document in a first person perspective as that of
+                 the lead developer on a team of individuals. Though the
+                 length is over, I hope that the rest of the content
+                 appropratly conveys my inteded information.
+   Assisted    -
+   Assisted by -
+
+1. Overview
+
+        I would like to thank everyone for being here. We have a lot to
+discuss and a lot of ground to cover in this first meeting. Unfortunately,
+do to the nature of this first meeting we will not have a lot of time for
+conversation or ideas to be presented back to me. However, I want you to take
+notes and if you need to come talk to me offline. This will allow me to help
+clarify any questions you may have. Also, minutes will be taken and an email
+will be sent to each of you outlining what was in this meeting.
+        Some of the things that we are going to discuss is what we need to do
+to clarify the mission an goals of our site. How we can balance the needs of
+our customers and schools administration. We will be covering what content
+and functionality the site will have and specify how users will be able to
+interact with that site. It is key to note that users to not necessarily
+think the way we do in the information technology or computer software and
+development areas and how we would organize our information is very much
+different from the layman who barely knows how to turn on a PC let alone
+how to program one. We will need to map out our entire site and make sure
+that it will be able to expand and accommodate this growth with ease. Though
+it is listed last, it is important to note that our design of organization,
+indexing, labeling, and navigations systems are critical. We will also need
+to keep in mind how users will browse information and what support we will
+need to offer to the users to help them have a positive experience here on
+this site. Keep in mind that this is our first meeting, so take notes and
+please collate any ideas you may have and bring them with you to the next
+meeting this coming Tuesday.
+
+2. Goals and Audience
+
+      First we need to understand the big picture or our current goals for
+organizing this site. The reason that we are rewriting the BYU-I web site is
+due to a couple of factors. First, the site has become disorganized and needs
+to be cleaned up. Second, we need to formulate a new standard that can apply
+to all pages on the web making the web experience better that it has been.
+        Our starting targets for who we are developing the new BYU-I site will
+first focus on students, second on teachers, and lastly on faculty. These will
+be our main focus goals. Some other individuals that we will need to focus on
+are those who are casually browsing for schools, anyone willing to donate to
+the school, and give credit to these individuals. Another main point that we
+need to keep in mind is that as we are going through this development process
+we need you to keep in mind any other target groups that we need to be aware
+of and make note of them on our next review.
+        As we begin this first faze of development I want to impress some of
+the main reasons individuals will be coming to our site, which will be listed
+in no particular order.
+1. Signing up for classes 
+2. Registering for school
+3. See posted grades
+4. Get current school events.
+5. School catalog
+6. Searching for student or teacher contact information.
+7. Online learning
+        These key areas also require certain functionality which will need to
+be addressed. Some of the other functional items that will need to be
+addressed are.
+1. Registering for classes
+2. Registering for school
+3. Financial aid
+4. Optional settings for how much personal information is displayed on the
+   web.
+5. Browsing the online school catalog of courses.
+6. Security concerns.
+        With the redevelopment of the BYU-I web site we will need to take into
+consideration what kind of information is posted and presented to the user.
+These items should include at minimum the following.
+1. School catalog
+2. Student information
+3. Employee information
+4. School registration
+5. Teacher / Student schedules
+6. School events
+7. Brief history of the school and church. 
+        We need to keep in mind that our main goal is to provide a portal for
+students and teachers to communicate and to assist students with their career
+goals, to aid students in gaining knowledge of career goals and to assist
+teachers in providing feedback to students.
+
+3. Success Measurements
+
+        As we are developing this site we will need weekly updates as to your
+progress so that we will be able to evaluate weather we are moving in the
+correct direction. Management is concerned about how much the rewrite of the
+site is going to cost and wants a projected estimate for how long it will
+take and the approximate costs. If these things are with in budget we will
+begin full on development of the new site.
+        Two of our goals for this site include improving customer service
+and site performance. To verify that we are meeting these goals, we will need
+to take a personal survey of our site every three months beginning with our
+first evaluation of the current site and any possible improvements that maybe
+needed. It is very possible that on our first pass will find that we are
+missing several of our needed target audiences and we will need to make
+adjustments to include them in the overall project schema.
+
+4. Content Definition
+
+      I have mentioned this briefly before but, as we continue through the
+development process for this web we need to keep in mind any ideas that come
+to us during the information gathering process and even during the actual
+development of the site. These brief spurts of genius need to be written
+down or else they will be forgotten. At the end of each week, I would like to
+see the notes collated and brought to our weekly meetings every Tuesday. This
+will prove invaluable as we asses our direction and focus. It will provide a
+means for organizing our information on the web as well as providing
+excellent ideas to be discussed during our meetings. This will help the
+overall team synergize and be productive in our efforts to improve the
+current web site.
+      At the end of each meeting on Tuesday the meeting minuets will be
+recorded along with where our progress is currently in design and
+implementation and any notes or other visual information will be digitally
+photographed and emailed to each of you to aid in the current development
+process. If during the week you have anything to discuss with me, youre more
+then welcome to come by my office and discuss with me your ideas offline.
+I encourage each of you to come and talk with me if you have any ideas or
+thoughts that you need to bounce off someone.
+
+5. Information Organization
+
+        One of our main challenges is dealing with how information is
+organized and being presented to our users. Unfortunately, we are currently
+dealing with level of ambiguity and of differing perspectives as to how one
+is to get to the information available on the current site. Another issue is
+the great deal of diverse information that is heterogeneous in nature. We
+have a wide variety of topics available for study and each group having its
+own agenda and ideas on how it is to be presented. This leads to internal and
+political issues as to whom and what is most important. In order to help keep
+these problems to a minimum, I need each of you to keep in mind that as you
+deal with these groups to help educate them as to what our main focus and
+goals are. This needs to be done in a tactful and careful manner, as to not
+invalidate their position or feelings. If anything take note of their ideas
+and let them know that we will take into consideration all ideas. But let them
+know that our main focus and goals must be met.
+        Continuing with our organization issues, our web site will need to
+cover thee basic organizational schemes, that of Alphabetical, Chronological
+and Geographical listings. This is going to make development of the site
+difficult as we will have overlapping schemes for finding information on
+our site. Careful consideration will be mandatory of each of these areas
+as well as any other ambiguous organization structures available for
+presenting to the user a concise and easy listing of the desired information.
+
+6. Usability Testing
+
+        This being our first meeting on the redesigning of the BYU-I web
+site, we will need to keep in mind some future discussions and testing
+implementations. After our first design session I want each team to take the
+parts that they are designing in detail and test them thoroughly. It is
+important to note that I do not want anyone to lay one stitch of code for
+your first draft until after at least the first two meetings have been
+completed. Listed below is the testing process that will be followed as
+we reevaluate the site every three months.
+1. Heuristic evaluations
+2. Testing with pencil and paper
+3. Testing a simple navigational interface
+4. Testing a structural prototype
+5. Testing a complex navigational interface
+6. Full-blown beta testing
+Keep in mind if we follow this process, we will save time and money in the
+development of the new site.
+
+7. Navigation Systems
+
+        Now that we have covered several of the high level issues, we are now
+going to delve into some of the lower level issues one of them being
+Navigation. All of you are hopefully familiar with the current navigation
+system on the site. It is extremely flexible and has lead to some problems
+in helping uses get from one place to the next. We need to keep these menu
+systems down to a minimum so as to keep from overwhelming the user. Because
+we have so many different departments all seeking to be noticed we will need
+to formulate three out of the four basic types of navigation.
+1. Hierarchical Navigation
+2. Global Navigation
+3. Local Navigation
+        The way that this will work is that all sites will be under the
+main BYU-I web site and can be reached from a global directory listing. With
+in each group will be its own local navigation which will be dictated by our
+style guide. I want to try and avoid as much ad hock navigation as possible.
+It is important to note that this is similar to the current site design and I
+am open to suggestions as to how to improve this schema.
+        Another design aspect that we will maintain from the previous site is
+the Navigation bars and pull-down menus. However, I want to see these used
+sparingly and to make them functional behavior the same for each element and
+page.
+        Lastly, we will need three other areas for helping students, teachers,
+and any other visitors get around our site. They are.
+1. Table of contents
+2. Index
+3. Site map
+
+8. Labeling Systems
+
+        As we develop our navigational scheme, we also need to be aware of
+labeling systems that can be implemented. People do not have long attention
+spans, and if we do not present to the use the key information we will loose
+them. Second, if we do not have a proper standard it is very likely that we
+will make a poor impression on those who are visiting the site. Especially if
+one area has good labeling and another area does not. It will show that we
+cannot be consistent. It is better that we have a poor labeling system that
+is consistent then to have good and bad mixed in with our defining system.
+It is also key to note that we are not trying to set labels on things but
+to be able to group items in a manner that is readable and understandable
+for the user.
+        Listed below are a few labeling types that can be used and where.
+1. Labels within navigation systems
+2. Labels as indexing terms
+3. Link labels
+4. Labels as headings
+5. Iconic labeling systems
+        As we are interested in correctly labeling our content we need to keep
+in mind where we can find correct labels that will be informative and help us
+identify information for our user base. First I want you all to consider the
+current labels already in place. Then go out to the web and look for what
+other people have suggested as good labels. Keep words simple if possible
+and their definitions concise. Also look to what other users or experts are
+saying.
+        Once we have gathered these labels we will take them and go over them
+one by one and figure out how to best place them and fine tune their scope
+and size
+
+9. Searching Systems
+
+      Do to known time and money constraints we will not be implementing a
+search engine. The current system works well. We will continue to use
+Google as the power for searching our site. However, what we will do is to
+use the search engines APIs so that we can provide a look and feel that is
+our own instead of Googles. What we need to keep in mind is that Google will
+not always be up-to-date, so we will need to list on our highest trafficked
+pages is to inform the search engine to come back frequently to keep the
+information current. This will allow us to cater to each style of user
+searching for information on our site, from casual browsers to those doing
+a comprehensive search.
+      Another advantage to using Googles search engine is that most people
+are already familiar on how it works. This will reduce education time in
+helping people know how to search our site. Because we will be using Google,
+all of our information will be indexed but it may not be indexed 100% way we
+expect it to be. We will need to keep this in mind as we develop each page
+and appropriately list meta tags to help in the searching criteria that
+is made when using Google.

@@ -1,0 +1,7 @@
+-
+*Applied Mathematics B.S. (650)*
+!include "gen-bs.txt"!
+!MinorRequired!
+AND,
+Take ALL, :C-:, MATH 113, MATH 214, MATH 281, MATH 301, MATH 321, MATH 341, MATH 371, MATH 411, MATH 422, MATH 441, MATH 461, MATH 462, MATH 498R, MATH 499, ;,
+Take 2, :C-:, MATH 412, MATH 472, MATH 482, MATH 495, ;, ;,

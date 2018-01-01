@@ -1,0 +1,34 @@
+Work Log
+Homework 10
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+Date     Start Stop  Interruption Work
+07/23/03 11:30 12:00 000          030
+
+   Phase       - research
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+07/23/03 16:15 16:35 000          020
+
+   Phase       - research and development
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+07/24/03 07:30 09:30 000          120
+
+   Phase       - research development and testing
+   Notes       -
+   Assisted    -
+   Assisted by -
+
+07/26/03 11:00 11:20 000          020
+
+   Phase       - finishing touches to program
+   Notes       -
+   Assisted    -
+   Assisted by -
+

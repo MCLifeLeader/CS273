@@ -1,0 +1,59 @@
+Laodicea, Luke
+   ENG   111  025       COLLEGE COMP    3.0  C+  E     
+   MATH  110  018       COLL ALGEBRA    3.0  C-  M     
+   MATH  111  302       TRIGONOMETRY    2.0  C   M     
+   MUSIC 100  001       INTRO TO MUSIC  3.0  C+  A     
+   REL   212  010       NEW TESTAMENT   2.0  C-  R     
+   SPAN  201M 001       2ND YR SPAN RM  4.0  C-        
+   SPAN  101  456       SPANISH I       4.0  C+  Z     
+   SPAN  102  456       SEC SEM SPAN    4.0  C-  Z     
+   SPAN  211  456       SEC YR CONVERS  2.0  C         
+   DT    204  001       ELECT DRAWING   2.0  C+        
+   EET   151  001       DIGITAL CIR     3.0  C-        
+   EET   152  002       D.C. CIRCUITS   3.0  C+        
+   MATH  162  002       PLANE GEO CAL   4.0  C+  M     
+   MUSIC 110  004       COLLEGE CHOIR   1.0  C         
+   REL   121  041       BOOK OF MORMON  2.0  C   R     
+   EET   153  002       SEMI CONDUCTOR  4.0  C-        
+   EET   154  002       AC CIRCUITS     4.0  C         
+   MATH  263  001       ANA GEOM-CALC   4.0  C+  M     
+   MUSIC 110  004       COLLEGE CHOIR   1.0  C         
+   PE*C  128  013       BEG BOWLING     1.0  C         
+   REL   122  040       BOOK OF MORMON  2.0  C   R     
+   EET   251  501       ELE CIRCUITS    3.0  C         
+   EET   253  501       LINEAR INT CIR  3.0  C+        
+   RE    130  503       BASIC EQUIT     1.0  C         
+   HIST  110  601       WORLD CIVIL     3.0  C-  S     
+   REL   202  601       OLD TESTAMENT   2.0  C   R     
+   MATH  264  701       MULT-DIM CALC   3.0  C+  M     
+   RE    231  702       INT EQUITATION  1.0  C         
+   CT    220  001       COMPUTER SYS I  3.0  C         
+   EET   250  001       TROUBLESHOOT    3.0  C-        
+   EET   254  001       ASSEMBLY LANG   3.0  C+        
+   GS    290C 002       STUDENT LEADER  2.0  C         
+   PH    121  802       PRIN PHYSICS    3.0  C   P     
+   CS    165  001       OO PROGRAMMING  3.0  C+        
+   CT    225  001       COMPUTER SY II  3.0  C         
+   EET   252  001       ELEC COMM CIRC  3.0  C+        
+   EET   255  001       MICROPROCESSOR  3.0  C         
+   GS    290C 002       STUDENT LEADER  2.0  C         
+   PH    214  001       PRIN OF PH LAB  1.0  C         
+   PH    221  001       PRIN PHYSICS    3.0  C         
+   BIO   118  002       FIELD BIOLOGY   4.0  C   B     
+   ECON  111  003       ECON PRIN       3.0  C-  I     
+   IS    140  004       MICRO APPLIC    3.0  C   Z     
+   MATH  221  001       STATISTICS      3.0  C   M     
+   REL   324  002       D & C           2.0  C   R     
+   IS    203  001       VISUAL PROGM I  3.0  C         
+   IS    230  002       DESIGN/LAYOUT   3.0  C         
+   IS    235  801       WEB PAGE DSGN   3.0  C         
+   IS    240  001       NETWORKING      3.0  C         
+   IS    258  401       RPG IV          3.0  C         
+   IS    200L 601       PROG LAB I      0.0  C         
+   IS    210  601       OO PROGRAM I    3.0  C         
+   IS    320  601       DB DSGN & DEV   3.0  C         
+   MATH  321  001       PROB & STAT     3.0  C         
+   IS    310  002       OO PROG II      3.0  C         
+   IS    330  003       SERVER ADMIN    3.0  C         
+   IS    340  001       NETWORK DESIGN  3.0  C         
+   IS    300L 002       PROG LAB II     0.0  C         

@@ -1,0 +1,294 @@
+Homework 02
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+
+Internet Jargon and Definitions
+
+100 points
+
+Expand acronyms, if appropriate, and briefly define the following terms (as
+they relate to the Internet). State the source(s) of your definitions. Submit
+as a text file (with the work log in the same file).
+
+1. applet - A program designed to be executed from within another application.
+Unlike an application, applets cannot be executed directly from the operating
+system. With the growing popularity of OLE (object linking and embedding),
+applets are becoming more prevalent. A well-designed applet can be invoked
+from many different applications.
+
+2. CGI - Abbreviation of Common Gateway Interface, a specification for
+transferring information between a World Wide Web server and a CGI program.
+A CGI program is any program designed to accept and return data that conforms
+to the CGI specification. The program could be written in any programming
+language, including C, Perl, Java, or Visual Basic.
+
+3. client - The client part of a client-server architecture. Typically, a
+client is an application that runs on a personal computer or workstation
+and relies on a server to perform some operations. For example, an e-mail
+client is an application that enables you to send and receive e-mail.
+
+4. DHTML - Dynamic Hyper Text Markup Language 
+(1) Refers to Web content that changes each time it is viewed.
+For example, the same URL could result in a different page depending on any
+number of parameters, such as:
+
+ Geographic location of the reader
+ Time of day
+ Previous pages viewed by the reader
+ Profile of the reader
+
+There are many technologies for producing dynamic HTML, including CGI
+scripts, Server-Side Includes (SSI), cookies, Java, JavaScript, and ActiveX.
+
+(2) When capitalized, Dynamic HTML refers to new HTML extensions that will
+enable a Web page to react to user input without sending requests to the Web
+server. Microsoft and Netscape have submitted competing Dynamic HTML proposals
+to W3C, which is producing the final specification.
+
+5. DNS - (1) Short for Domain Name System (or Service), an Internet service
+that translates domain names into IP addresses. Because domain names are
+alphabetic, they're easier to remember. The Internet however, is really
+based on IP addresses. Every time you use a domain name, therefore, a DNS
+service must translate the name into the corresponding IP address. For example,
+the domain name www.example.com might translate to 198.105.232.4.
+The DNS system is, in fact, its own network. If one DNS server doesn't know
+how to translate a particular domain name, it asks another one, and so on,
+until the correct IP address is returned.
+
+(2) Short for digital nervous system, a term coined by Bill Gates to describe
+a network of personal computers that make it easier to obtain and understand
+information.
+
+6. ethernet - A local-area network (LAN) architecture developed by Xerox
+Corporation in cooperation with DEC and Intel in 1976. Ethernet uses a bus or
+star topology and supports data transfer rates of 10 Mbps. The Ethernet
+specification served as the basis for the IEEE 802.3 standard, which specifies
+the physical and lower software layers. Ethernet uses the CSMA/CD access
+method to handle simultaneous demands. It is one of the most widely
+implemented LAN standards.
+
+A newer version of Ethernet, called 100Base-T (or Fast Ethernet), supports
+data transfer rates of 100 Mbps. And the newest version, Gigabit Ethernet
+supports data rates of 1 gigabit (1,000 megabits) per second.
+
+7. FTP - Abbreviation of File Transfer Protocol, the protocol used on the
+Internet for sending files.
+
+8. gopher - A system that pre-dates the World Wide Web for organizing and
+displaying files on Internet servers. A Gopher server presents its contents
+as a hierarchically structured list of files. With the ascendance of the Web,
+many gopher databases were converted to Web sites which can be more easily
+accessed via Web search engines. Gopher was developed at the University of
+Minnesota and named after the school's mascot. Two systems, Veronica and
+Jughead, let you search global indices of resources stored in Gopher systems.
+
+9. HTML - Short for Hyper Text Markup Language, the authoring language used to
+create documents on the World Wide Web. HTML is similar to SGML, although it
+is not a strict subset.
+
+HTML defines the structure and layout of a Web document by using a variety
+of tags and attributes. The correct structure for an HTML document starts
+with <HTML><HEAD>(enter here what document is about)</HEAD><BODY> and ends
+with </BODY></HTML>. All the information you'd like to include in your Web
+page fits in between the <BODY> and </BODY> tags. There are hundreds of other
+tags used to format and layout the information in a Web page. Tags are also
+used to specify hypertext links. These allow Web developers to direct users
+to other Web pages with only a click of the mouse on either an image or
+word(s). For a more complete list of tags, check out some of the URLs below.
+
+10. HTTP - Short for Hyper Text Transfer Protocol, the underlying protocol
+used by the World Wide Web. HTTP defines how messages are formatted and
+transmitted, and what actions Web servers and browsers should take in response
+to various commands. For example, when you enter a URL in your browser, this
+actually sends an HTTP command to the Web server directing it to fetch and
+transmit the requested Web page.
+
+The other main standard that controls how the World Wide Web works is HTML,
+which covers how Web pages are formatted and displayed. HTTP is called a
+stateless protocol because each command is executed independently, without
+any knowledge of the commands that came before it. This is the main reason
+that it is difficult to implement Web sites that react intelligently to user
+input. This shortcoming of HTTP is being addressed in a number of new
+technologies, including ActiveX, Java, JavaScript and cookies.
+
+11. IP address - Internet Protocol Address
+An identifier for a computer or device on a TCP/IP network.
+Networks using the TCP/IP protocol route messages based on the IP address of
+the destination. The format of an IP address is a 32-bit numeric address
+written as four numbers separated by periods. Each number can be zero to 255.
+For example, 1.160.10.240 could be an IP address.
+Within an isolated network, you can assign IP addresses at random as long as
+each one is unique. However, connecting a private network to the Internet
+requires using registered IP addresses (called Internet addresses) to avoid
+duplicates.
+
+The four numbers in an IP address are used in different ways to identify a
+particular network and a host on that network. Three regional Internet
+registries -- ARIN, RIPE NCC and APNIC -- assign Internet addresses from
+the following three classes.
+
+ Class A - supports 16 million hosts on each of 127 networks
+ Class B - supports 65,000 hosts on each of 16,000 networks
+ Class C - supports 254 hosts on each of 2 million networks
+
+The number of unassigned Internet addresses is running out, so a new classless
+scheme called CIDR is gradually replacing the system based on classes A, B,
+and C and is tied to adoption of IPv6.
+
+12. MIME - Short for Multipurpose Internet Mail Extensions, a specification
+for formatting non-ASCII messages so that they can be sent over the Internet.
+Many e-mail clients now support MIME, which enables them to send and receive
+graphics, audio, and video files via the Internet mail system. In addition,
+MIME supports messages in character sets other than ASCII.
+There are many predefined MIME types, such as GIF graphics files and PostScript
+files. It is also possible to define your own MIME types. In addition to e-mail
+applications, Web browsers also support various MIME types. This enables the
+browser to display or output files that are not in HTML format.
+MIME was defined in 1992 by the Internet Engineering Task Force (IETF). A new
+version, called S/MIME, supports encrypted messages.
+
+13. ping - A utility to determine whether a specific IP address is accessible.
+It works by sending a packet to the specified address and waiting for a reply.
+PING is used primarily to troubleshoot Internet connections. There are many
+freeware and shareware Ping utilities available for personal computers. It is
+often believed that " Ping" is an abbreviation for Packet Internet Groper, but
+Ping 's author has stated that the names comes from the sound that a sonar
+makes.
+
+14. router - A device that forwards data packets along networks. A router is
+connected to at least two networks, commonly two LANs or WANs or a LAN and its
+ISPs network. Routers are located at gateways, the places where two or more
+networks connect.
+Routers use headers and forwarding tables to determine the best path for
+forwarding the packets, and they use protocols such as ICMP to communicate
+with each other and configure the best route between any two hosts. Very
+little filtering of data is done through routers.
+
+15. SSL - Short for Secure Sockets Layer, a protocol developed by Netscape for
+transmitting private documents via the Internet. SSL works by using a public
+key to encrypt data that's transferred over the SSL connection. Both Netscape
+Navigator and Internet Explorer support SSL, and many Web sites use the
+protocol to obtain confidential user information, such as credit card
+numbers. By convention, URLs that require an SSL connection start with
+https: instead of http:.
+
+Another protocol for transmitting data securely over the World Wide Web is
+Secure HTTP (S-HTTP). Whereas SSL creates a secure connection between a
+client and a server, over which any amount of data can be sent securely,
+S-HTTP is designed to transmit individual messages securely. SSL and S-HTTP,
+therefore, can be seen as complementary rather than competing technologies.
+Both protocols have been approved by the Internet Engineering Task Force
+(IETF) as a standard.
+
+16. SGML - Short for Standard Generalized Markup Language, a system for
+organizing and tagging elements of a document. SGML was developed and
+standardized by the International Organization for Standards (ISO) in 1986.
+SGML itself does not specify any particular formatting; rather, it specifies
+the rules for tagging elements. These tags can then be interpreted to format
+elements in different ways.
+
+SGML is used widely to manage large documents that are subject to frequent
+revisions and need to be printed in different formats. Because it is a large
+and complex system, it is not yet widely used on personal computers. However,
+the growth of Internet, and especially the World Wide Web, is creating renewed
+interest in SGML because the World Wide Web uses HTML, which is one way of
+defining and interpreting tags according to SGML rules.
+
+17. server - A computer or device on a network that manages network resources.
+For example, a file server is a computer and storage device dedicated to
+storing files. Any user on the network can store files on the server. A print
+server is a computer that manages one or more printers, and a network server
+is a computer that manages network traffic. A database server is a computer
+system that processes database queries. Servers are often dedicated, meaning
+that they perform no other tasks besides their server tasks.
+
+On multiprocessing operating systems, however, a single computer can execute
+several programs at once. A server in this case could refer to the program
+that is managing resources rather than the entire computer.
+
+18. servlet - A Java application that runs in a Web server or application
+server and provides server-side processing
+
+19. T1 - A dedicated phone connection supporting data rates of 1.544Mbits
+per second. A T-1 line actually consists of 24 individual channels, each of
+which supports 64Kbits per second. Each 64Kbit/second channel can be
+configured to carry voice or data traffic. Most telephone companies allow
+you to buy just some of these individual channels, known as fractional T-1
+access.
+
+T-1 lines are a popular leased line option for businesses connecting to the
+Internet and for Internet Service Providers (ISPs) connecting to the Internet
+backbone. The Internet backbone itself consists of faster T-3 connections.
+T-1 lines are sometimes referred to as DS1 lines.
+
+20. TCP/IP - Abbreviation for Transmission Control Protocol/Internet Protocol,
+the suite of communications protocols used to connect hosts on the Internet.
+TCP/IP uses several protocols, the two main ones being TCP and IP. TCP/IP is
+built into the UNIX operating system and is used by the Internet, making it the
+de facto standard for transmitting data over networks. Even network operating
+systems that have their own protocols, such as Netware, also support TCP/IP.
+
+21. telnet - Abbrevation for Telecommunications Network. A terminal emulation 
+program for TCP/IP networks such as the Internet. The Telnet program runs on 
+your computer and connects your PC to a server on the network. You can then 
+enter commands through the Telnet program and they will be executed as if 
+you were entering them directly on the server console. This enables you to 
+control the server and communicate with other servers on the network. To 
+start a Telnet session, you must log in to a server by entering a valid 
+username and password. Telnet is a common way to remotely control Web servers.
+
+22. traceroute - A utility that traces a packet from your
+computer to an Internet host, showing how many hops the packet requires to
+reach the host and how long each hop takes. If you're visiting a Web site and
+pages are appearing slowly, you can use traceroute to figure out where the
+longest delays are occurring.
+
+The original traceroute is a UNIX utility, but nearly all platforms have
+something similar. Windows includes a traceroute utility called tracert. In
+Windows 95, you can run tracert by selecting Start->Run, and then entering
+tracert followed by the domain name of the host. For example:
+
+tracert www.pcwebopedia.com
+
+Traceroute utilities work by sending packets with low time-to-live (TTL)
+fields. The TTL value specifies how many hops the packet is allowed before
+it is returned. When a packet can't reach its destination because the TTL
+value is too low, the last host returns the packet and identifies itself.
+By sending a series of packets and incrementing the TTL value with each
+successive packet, traceroute finds out who all the intermediary hosts are.
+
+23. W3C - Short for World Wide Web Consortium, an international consortium
+of companies involved with the Internet and the Web. The W3C was founded in
+1994 by Tim Berners-Lee, the original architect of the World Wide Web. The
+organization's purpose is to develop open standards so that the Web evolves
+in a single direction rather than being splintered among competing factions.
+
+24. XHTML - Short for Extensible Hypertext Markup Language, a hybrid between
+HTML and XML specifically designed for Net device displays.
+
+XHTML is a markup language written in XML; therefore, it is an XML application.
+
+XHTML uses three XML namespaces (used to qualify element and attributes names
+by associating them with namespaces identified by URI references. Namespaces
+prevent identically custom-named tags that may be used in different XML
+documents from being read the same way), which correspond to three HTML
+4.0 DTDs: Strict, Transitional, and Frameset.
+
+XHTML markup must conform to the markup standards defined in a HTML DTD. When
+applied to Net devices, XHTML must go through a modularization process. This
+enables XHTML pages to be read by many different platforms. A device designer,
+using standard building blocks, will specify which elements are supported.
+Content creators will then target these building blocks--or modules. Because
+these modules conform to certain standards, XHTML's extensibility ensures that
+layout and presentation stay true-to-form over any platform.
+
+25. XML - Short for Extensible Markup Language, a specification developed by
+the W3C. XML is a pared-down version of SGML, designed especially for Web
+documents. It allows designers to create their own customized tags, enabling
+the definition, transmission, validation, and interpretation of data between
+applications and between organizations.
+
+All sources were found at http://www.pcwebopedia.com
+Except for 21 which was found at http://www.techweb.com/encyclopedia
+Aditional source was found for Telent at http://www.acronymfinder.com

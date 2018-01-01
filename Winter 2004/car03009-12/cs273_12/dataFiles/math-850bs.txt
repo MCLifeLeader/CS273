@@ -1,0 +1,8 @@
+-
+*Math Education B.S. (850)*
+!include "gen-bs.txt"!
+!MinorRequired!
+AND,
+Take 1, :C-:, MATH 111, MATH 300, ;,
+Take ALL, :C-:, MATH 112, MATH 113, MATH 221, MATH 280, MATH 301, MATH 302, MATH 440, MATH 460, MATH 490, ;,
+Take ALL, ED 200, SECED 205, MATH 252, MATH 322, MATH 370, MATH 410, MATH 492, ;, ;,

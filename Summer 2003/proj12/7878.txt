@@ -1,0 +1,53 @@
+Aquila, Priscilla
+   AMHER 170  003       AMER HERITAGE   3.0  A-  S     
+   DANCE 180M 001       SOCIAL DANCE    1.0  F         
+   ENG   107  001       COLLEGE READ    3.0  W         
+   ENG   111  002       COLLEGE COMP    3.0  A   E     
+   REL   122  029       BOOK OF MORMON  2.0  C+  R     
+   HUM   101  502       INTRO TO HUM    3.0  A   A     
+   MUSIC 110  501       COLLEGE CHOIR   1.0  F         
+   PHOTO 105  501       INTRO: PHOTO    3.0  D-  A     
+   ENG   215  602       ADV COMP        3.0  C-  E     
+   REL   224  603       D & C           2.0  B+  R     
+   ENG   250  027       INTRO TO LIT    3.0  C+  L     
+   GS    103D 001       TEXTBOOK STUDY  0.5  F   Rpt   
+   MATH  101  014       INTER ALGEBRA   3.0  F   Rpt   
+   PE*C  161  001       SWIMMING INT    1.0  A-        
+   PH.S  100  004       PHYS SCIENCE    3.0  D   P     
+   PSYCH 111  003       GEN PSYCHOLOGY  3.0  B+  S     
+   REL   121  202       BOOK OF MORMON  2.0  C+  R     
+   BIO   118  003       FIELD BIOLOGY   4.0  A-  B     
+   HS    131  005       PER HLTH & WEL  2.0  B   Z     
+   PE*C  128  007       BEG BOWLING     1.0  C         
+   REL   225  017       D & C           2.0  D   R     
+   TA    117  002       INTRO FILM ART  3.0  F   A     
+   BIO   221  002       GENERAL MICRO   3.0  D-  B     
+   BIO   222  002       GEN MICRO LAB   1.0  F   B     
+   FA    100  001       FINE ART ATTEN  0.0  P         
+   GS    103D 001       TEXTBOOK STUDY  0.5  W         
+   HON   221H 001       C.S. LEWIS      3.0  B-  L     
+   MATH  101  190       INTER ALGEBRA   3.0  D   M     
+   PE*C  101  001       WATER AEROBICS  1.0  A         
+   REL   201  006       OLD TESTAMENT   2.0  C-  R     
+   ENG   325  001       THEORY LANG     3.0  D-        
+   ENG   334  001       AMLIT/COL&ROM   3.0  A   L     
+   ENG   373  001       SHAKESPEARE     3.0  C-  L     
+   GS    290B 801       APT LEADERSHIP  1.0  B         
+   REL   341  007       CHURCH HISTORY  2.0  C   R     
+   ENG   333  001       BRITLIT/VCT&MD  3.0  D-  L     
+   ENG   314  001       ADVWRTG/ENGHUM  3.0  F   E    
+   ENG   450  001       WRTG/RDGPROCES  3.0  D-        
+   ENG   452  001       PROF WRTG/EDIT  3.0  C+        
+   GS    290B 801       APT LEADERSHIP  1.0  W         
+   HUM   266  001       AMERICAN HUM    3.0  W         
+   ART   130  002       VISUAL COMM     3.0  D-        
+   ENG   372R 001       REG. AUTHORS    3.0  C         
+   HUM   333  001       SPIRIT IN ART   3.0  B-        
+   HUM   342  001       HUM OF ISLAM    3.0  B+        
+   HUM   497R 001       TOPICS IN HUM   3.0  C-        
+   IS    230  001       DESIGN/LAYOUT   3.0  D+        
+   REL   211  008       NEW TESTAMENT   3.0  A   R     
+   ENG   251  027       FUND LIT INTRP  3.0  B-        
+   ENG   316  001       ADVWRTG/TECHCM  3.0  A-  E     
+   HUM   201  004       WESTERN CULT    3.0  A   A     
+   HUM   202  001       WESTERN CULT    3.0  C+  A     

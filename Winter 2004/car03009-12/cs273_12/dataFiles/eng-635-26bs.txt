@@ -1,0 +1,8 @@
+-
+*English Creative Writing B.S. (635-26)*
+!include "eng-635.txt"!
+!MinorRequired!
+AND,
+Take ALL, :C:, ENG 218, ENG 318R, ENG 325, ENG 418, ENG 450, ENG 495, ;,
+Take 3, :C:, ENG 331, ENG 332, ENG 333, ENG 334, ENG 335, ;,
+Take 2, :C:, ENG 350R, ENG 351, ENG 352, ENG 353, ENG 354, ENG 355, ENG 356, ENG 361, ENG 362, ENG 363R, ;, ;,

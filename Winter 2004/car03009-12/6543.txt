@@ -1,0 +1,33 @@
+Ephesus, Roman
+   MATH  113  001       CALCULUS II     3.0  A   M     
+   BIO   100  003       PRIN BIOLOGY    3.0  B   B     
+   BIO   102  003       PRIN BIO LAB    1.0  C   B     
+   CS    165  001       OO PROGRAMMING  3.0  D         
+   REL   121  003       BOOK OF MORMON  2.0  F   R     
+   CS    273  001       WEB ENGINEER    2.0  W         
+   CS    235  001       DATA STRUCTURE  3.0  A   Rpt   
+   FA    100  001       PER VIS ARTS LB 0.0  P         
+   PH    121  003       PRIN PHYSICS    3.0  D   P     
+   REL   122  002       BOOK OF MORMON  2.0  F   R     
+   CS    100  001       COMP BASICS     1.0  W   Z     
+   CS    236  001       DIS MATH        4.0  A         
+   CS    346  001       S/W DESIGN/DEV  3.0  B         
+   ENG   316C 007       ADVWRTG/TECHCM  3.0  C   E     
+   HUM   101  810       INTRO TO HUM    3.0  D   A     
+   PH    122  001       PRIN PHYSICS    3.0  F   P     
+   FAML  210  001       CHILD DEVELOP   3.0  W   S     
+   REL   130  001       MISSION PREP    2.0  A   R     
+   CS    235  001       DATA STRUCTURE  3.0  B         
+   PE*C  131  003       GOLF            1.0  B         
+   HIST  120  002       US TO 1877      3.0  C   S     
+   HIST  121  020       US SINCE 1877   3.0  D   S     
+   ENG   111  004       COLL WRITING    3.0  F   E     
+   ENG   250  013       INTRO TO LIT    3.0  W   L     
+   MATH  110  022       COLL ALGEBRA    3.0  A   M     
+   MATH  111  005       TRIGONOMETRY    2.0  B   M     
+   MATH  112  009       CALCULUS I      4.0  C   M     
+   MATH  221  003       STATISTICS      3.0  D   M     
+   REL   234  007       ETERNAL MARR    2.0  F   R     
+   CS    306  001       ALG COMP        3.0  A         
+   CS    426  001       S/W ENGR I      3.0  B         
+   COMPE 324  001       COMP ARCH       3.0  C         

@@ -1,0 +1,9 @@
+-
+*English Education B.S. (835)*
+!include "gen-bs.txt"!
+!MinorRequired!
+AND,
+Take ALL, :C:, ENG 325, ENG 356, ENG 430, ENG 450, ENG 495, ;,
+Take 3, :C:, ENG 331, ENG 332, ENG 333, ENG 334, ENG 335, ;,
+Take 1, :C:, ENG 370R, ENG 371R, ENG 372R, ENG 373, ;,
+Take ALL, ED 200, SECED 205, SECED 252, SECED 322, SECED 370, SECED 410, SECED 492, ;, ;,

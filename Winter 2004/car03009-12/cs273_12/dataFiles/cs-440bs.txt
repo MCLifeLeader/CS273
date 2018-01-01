@@ -1,0 +1,10 @@
+-
+*Computer Science B.S. (440)*
+!include "gen-bs.txt"!
+!NoMinor!
+AND,
+OR,
+Take 2, :C-:, CHEM 105, CHEM 106, ;,
+Take 4, :C-:, PH 121, PH 150, PH 220, PH 250, ;,
+Take 4, :C-:, GEOL 111, GEOL 111L, GEOL 112, GEOL 112L, ;, ;,
+Take ALL, :C-:, COMPE 224, COMPE 324, CS 124, CS 165, CS 203, CS 235, CS 236, CS 273, CS 303, CS 306, CS 345, CS 346, CS 371, CS 399, CS 410, CS 426, CS 427, CS 452, CS 460, CS 490, CS 499, MATH 111, MATH 112, MATH 221, MATH 341, ;, ;,

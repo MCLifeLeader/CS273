@@ -1,0 +1,20 @@
+Homework 01
+Brother Twitchell, CS 273
+Brother Michael Carey
+
+What method(s) of encryption does PGP employ?
+A. Symmetric
+B. Asymmetric
+c. Both A and B
+D. Cipher Text
+
+Answer C
+
+What is the main purpose of a hash or (digest) in PGP?
+A. The digital signature.
+B. Verify the integrity of a piece of data.
+C. To encrypt the plain text message.
+D. None of the above.
+
+Answer B
+

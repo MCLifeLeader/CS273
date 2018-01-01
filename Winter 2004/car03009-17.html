@@ -1,0 +1,214 @@
+<!--
+   Homework 17
+   Brother Twitchell, CS 273
+   Brother Michael Carey
+-->
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html>
+   <head>
+      <title>More JavaScript Grades</title>
+      <script language="javascript">
+<!--
+   function CalculateGrade( form )
+   {
+      var gradeTotals = new Array( 100, 100, 100, 50, 50, 100, 50, 450 );
+      var gradeTotal = 0;
+      var gradeEarned = 0;
+
+      var iFoundNaN = false;
+      var iError = false;
+
+      for( var i=0; i<form.gradeField.length; i++ )
+      {
+         if( isNaN( form.gradeField[i].value ) || form.gradeField[i].value == "" )
+         {
+            if( isNaN( form.gradeField[i].value ) )
+               iFoundNaN = true;
+
+            form.gradeField[i].value = "";
+         }
+         else
+         {
+            for( var i=0; i<gradeTotals.length; i++ )
+            {
+               var gradeFieldTest = parseInt( form.gradeField[ i ].value );
+                  
+               if( ( gradeFieldTest <= 100 ) && ( gradeFieldTest >= 0 ) )
+               {
+                  gradeTotal += gradeTotals[ i ];
+
+                  var val1 = gradeTotals[ i ];
+                  var val2 = gradeFieldTest;
+
+                  if( val2 > 0 )
+                  {
+                     gradeEarned += ( ( val2 * .01 ) * val1 );
+                  }
+               }
+               else
+               {
+                  if( isNaN( gradeFieldTest ) && ( form.gradeField[ i ].value != "" ) )
+                     iFoundNaN = true;
+
+                  if( ( gradeFieldTest > 100 ) || ( gradeFieldTest < 0 ) )
+                     iError = true;
+                  
+                  form.gradeField[i].value = "";
+               }
+            }
+         }
+      }
+
+      form.pointsPossible.value = parseInt( gradeTotal );
+      form.gradeEarned.value = parseInt( gradeEarned );
+
+      var avgGrade = gradeEarned / gradeTotal;
+
+      var avrgCalc = Math.round( avgGrade * 100 );
+      
+      if( isNaN( avrgCalc ) )
+         form.averageGrade.value = "0";
+      else
+         form.averageGrade.value = avrgCalc;
+         
+      var masterGrade = Math.round( avgGrade * 100 );
+      
+      if( isNaN( masterGrade ) )
+      {
+         iFoundNaN = true;
+         masterGrade = 0;
+      }
+      
+      DisplayGrade( masterGrade );
+            
+      if( iError == true || iFoundNaN == true )
+      {
+         form.pointsPossible.value  = "";
+         form.gradeEarned.value     = "";
+         form.averageGrade.value    = "";
+         document.viewGradeTool.letterGrade.value = "";
+
+         alert( 'A number is missing or invalid.' );
+      }
+   }
+
+   function DisplayGrade( inputValue )
+   {
+      var testVar = parseInt( inputValue );
+      
+      if( ( isNaN( testVar ) ) || ( testVar > 100 ) || ( testVar < 0 ) )
+      {
+        alert( 'An invalid number was entered.' );
+        document.viewGradeTool.letterGrade.value = "";
+      }
+      else
+      {
+         if( testVar >= 90 )
+         {
+            document.viewGradeTool.letterGrade.value = "A";
+         }
+         else if( testVar >= 80 )
+         {
+            if( testVar > 86 )
+            {
+               document.viewGradeTool.letterGrade.value = "B+";
+            }
+            else if( testVar > 82 )
+            {
+               document.viewGradeTool.letterGrade.value = "B";
+            }
+            else
+            {
+               document.viewGradeTool.letterGrade.value = "B-";
+            }
+         }
+         else if( testVar >= 70 )
+         {
+            if( testVar > 76 )
+            {
+               document.viewGradeTool.letterGrade.value = "C+";
+            }
+            else if( testVar > 72 )
+            {
+               document.viewGradeTool.letterGrade.value = "C";
+            }
+            else
+            {
+               document.viewGradeTool.letterGrade.value = "C-";
+            }
+         }
+         else if( testVar >= 60 )
+         {
+            if( testVar > 66 )
+            {
+               document.viewGradeTool.letterGrade.value = "D+";
+            }
+            else if( testVar > 62 )
+            {
+               document.viewGradeTool.letterGrade.value = "D";
+            }
+            else
+            {
+               document.viewGradeTool.letterGrade.value = "D-";
+            }
+         }
+         else
+         {
+            document.viewGradeTool.letterGrade.value = "F";
+         }
+      }
+   }
+   
+   function blockA( e )
+   {
+      var keyChar = String.fromCharCode( e.which );
+      
+      if( isNaN( parseInt( keyChar ) ) && ( e.which != 8 ) && ( e.which != 0 ) )
+         return false;
+      else 
+         return true;
+   }
+
+   document.captureEvents( event.KEYPRESS );
+   document.onkeypress = blockA;   
+
+// -->
+      </script>
+   </head>
+   <body>
+      <h1>More JavaScript Grades</h1>
+      <form name="viewGradeTool" method="post" action="javascript:void('');">
+         <table>
+            <tr>
+               <td vAlign="top">
+                  <P>
+                     1. <INPUT type="text" name="gradeField" value="" size="10" ID="Text1"><br>
+                     2. <INPUT type="text" name="gradeField" value="" size="10" ID="Text2"><br>
+                     3. <INPUT type="text" name="gradeField" value="" size="10" ID="Text3"><br>
+                     4. <INPUT type="text" name="gradeField" value="" size="10" ID="Text4"><br>
+                     5. <INPUT type="text" name="gradeField" value="" size="10" ID="Text5"><br>
+                     6. <INPUT type="text" name="gradeField" value="" size="10" ID="Text6"><br>
+                     7. <INPUT type="text" name="gradeField" value="" size="10" ID="Text7"><br>
+                     8. <INPUT type="text" name="gradeField" value="" size="10" ID="Text8"><br>
+                  </P>
+               </td>
+               <td vAlign="top">
+                  <P>
+                     <INPUT id="gradeEarned" type="text" name="gradeEarned" value="" size="10"> Total 
+                     Earned Points<br>
+                     <INPUT id="pointsPossible" type="text" name="pointsPossible" value="" size="10">
+                     Total Possible Points<br>
+                     <INPUT id="averageGrade" type="text" name="averageGrade" value="" size="10"> Average 
+                     Grade<br>
+                     <INPUT id="letterGrade" type="text" name="letterGrade" value="" size="10"> Letter 
+                     Grade<br>
+                  </P>
+               </td>
+            </tr>
+         </table>
+         <INPUT id="Button1" type="button" value="Process Grade" name="Button1" onclick="CalculateGrade(this.form);">
+      </form>
+      <br>
+      <a href="javascript:">JavaScript console</a>
+   </body>
+</html>

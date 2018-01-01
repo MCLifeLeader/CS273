@@ -1,0 +1,6 @@
+-
+*Spanish Education Minor (188)*
+AND,
+Take ALL, SPAN 102, SPAN 321, SPAN 350, SPAN 377, ;,
+Take 1, SPAN 201, SPAN 201M, ;,
+Take 1, SPAN 202, SPAN 302, ;, ;,
